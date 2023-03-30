@@ -987,7 +987,7 @@
         "type": "color"
       },
       "On Surface Variant": {
-        "value": "{Grey.400}",
+        "value": "{Grey.600}",
         "type": "color"
       }
     },
@@ -1005,6 +1005,12 @@
       "Regular": {
         "value": "{border-radii-8}",
         "type": "borderRadius"
+      }
+    },
+    "Button": {
+      "Fill": {
+        "value": "{Blue.500}",
+        "type": "color"
       }
     }
   },
